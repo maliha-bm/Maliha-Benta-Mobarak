@@ -1,0 +1,19 @@
+{
+  "tender": {
+    "tender_id": "LGED-2026-RD-0417",
+    "title": "Construction of Union Road with RCC Culvert, Savar Upazila",
+    "title_bn": "সাভার উপজেলায় আরসিসি কালভার্টসহ ইউনিয়ন সড়ক নির্মাণ",
+    "procuring_entity": "Local Government Engineering Department (LGED), Dhaka",
+    "procuring_entity_bn": "স্থানীয় সরকার প্রকৌশল অধিদপ্তর (এলজিইডি), ঢাকা",
+    "submission_deadline": "2026-11-15T12:00:00+06:00"
+  },
+  "requirements": [
+    { "id": "R3", "order": 3, "name_en": "VAT Registration Certificate", "name_bn": "ভ্যাট নিবন্ধন সনদ", "expiry_required": false, "optional": false },
+    { "id": "R1", "order": 1, "name_en": "Trade License", "name_bn": "ট্রেড লাইসেন্স", "expiry_required": true, "optional": false },
+    { "id": "R2", "order": 2, "name_en": "TIN Certificate", "name_bn": "টিআইএন সনদ", "expiry_required": false, "optional": false },
+    { "id": "R4", "order": 4, "name_en": "Bank Solvency Certificate", "name_bn": "ব্যাংক স্বচ্ছলতা সনদ", "expiry_required": true, "optional": false },
+    { "id": "R5", "order": 5, "name_en": "Tender Security (Bank Guarantee)", "name_bn": "দরপত্র জামানত (ব্যাংক গ্যারান্টি)", "expiry_required": true, "optional": false },
+    { "id": "R6", "order": 6, "name_en": "Work Experience Certificate", "name_bn": "কাজের অভিজ্ঞতার সনদ", "expiry_required": false, "optional": false },
+    { "id": "R7", "order": 7, "name_en": "ISO 9001 Certificate", "name_bn": "আইএসও ৯০০১ সনদ", "expiry_required": true, "optional": true }
+  ]
+}
