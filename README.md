@@ -2,7 +2,6 @@
 
 **TenderPack AI** is a browser-based tender document package builder that helps users organize, validate, and generate a complete tender submission package from a `requirements.json` file and PDF documents.
 
-🌐 **Live Demo:** https://tenderpack.vercel.app/
 
 ## Features
 
