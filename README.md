@@ -76,28 +76,7 @@ No backend server or document storage is required for processing the tender docu
 * PDF processing in the browser
 * Vercel deployment
 
-## Getting Started
 
-Clone the repository:
-
-```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_PROJECT_FOLDER>
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Then open the local development URL shown in your terminal.
 
 ## Project Goal
 
